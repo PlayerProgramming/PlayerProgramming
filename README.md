@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 
+I am interests in mobile developments, but more likely cross platform developments.
+
+Planning to learn Flutter soon.
 
 
 
