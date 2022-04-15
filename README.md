@@ -15,7 +15,11 @@ I am interests in mobile developments, but more likely cross platform developmen
 
 Planning to learn Flutter soon.
 
+I have no time to die.
 
+I lack in designing, but good at programming.
+
+Highest Keyboard WPM: 172 on https://monkeytype.com/
 
 
 
