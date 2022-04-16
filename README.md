@@ -15,7 +15,7 @@ I am interests in mobile developments, but more likely cross platform developmen
 
 Planning to learn Flutter soon.
 
-I have no time to die, only programming. ( I don't need work life balance. only love to work. )
+I have no time to die, only programming.
 
 I lack in designing, but good at programming.
 
