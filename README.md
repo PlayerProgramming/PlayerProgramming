@@ -10,7 +10,7 @@
 
 ---
 
-I am interests in web & mobile developments, but more likely cross platform developments & planning to learn Flutter soon.
+Hi, my name is Henry Juhyeong Kang and I am interested in Software Development.
 
 ---
 Highest Keyboard WPM: 172 on https://monkeytype.com/
